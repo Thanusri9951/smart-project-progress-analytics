@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 from src.auth import init_db, login_form, logout, is_admin
-from src.data import load_dataset, sample_dataset, validate_dataset, enrich_dataset
+from src.data import sample_dataset, validate_dataset, enrich_dataset
 from src.analytics import (project_summary, make_risk_labels, cluster_tasks, train_risk_models,
                            detect_anomalies, forecast_tasks, association_patterns, team_summary)
 from src.charts import (progress_by_project, status_donut, risk_bar, team_performance,
