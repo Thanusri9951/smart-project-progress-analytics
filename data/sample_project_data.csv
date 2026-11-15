@@ -1,0 +1,151 @@
+project_id,project_name,task_id,task_name,team_member,start_date,deadline,actual_completion_date,estimated_hours,actual_hours,completion_pct,status
+PRJ001,E-Commerce Platform,T001,Requirements,Priya,2026-08-01,2026-08-11,,47,38.3,88,In Progress
+PRJ001,E-Commerce Platform,T002,UI Design,Asha,2026-08-15,2026-09-02,,32,46.4,83,In Progress
+PRJ001,E-Commerce Platform,T003,Database Design,Kiran,2026-09-10,2026-09-20,,19,30.3,28,In Progress
+PRJ001,E-Commerce Platform,T004,Frontend Development,Keerthi,2026-08-19,2026-08-24,,44,66.8,6,In Progress
+PRJ001,E-Commerce Platform,T005,Backend Development,Sandeep,2026-08-06,2026-08-17,,25,35.4,75,In Progress
+PRJ001,E-Commerce Platform,T006,API Integration,Sandeep,2026-08-13,2026-08-31,,38,42.9,97,In Progress
+PRJ001,E-Commerce Platform,T007,Authentication,Asha,2026-09-13,2026-09-18,,59,60.6,84,In Progress
+PRJ001,E-Commerce Platform,T008,Testing,Manoj,2026-09-04,2026-09-22,,29,23.4,39,In Progress
+PRJ001,E-Commerce Platform,T009,Bug Fixing,Ravi,2026-08-12,2026-08-17,,63,70.2,7,In Progress
+PRJ001,E-Commerce Platform,T010,Documentation,Manoj,2026-08-16,2026-09-06,,43,31.8,96,In Progress
+PRJ001,E-Commerce Platform,T011,Deployment,Asha,2026-09-03,2026-09-09,,20,22.8,95,In Progress
+PRJ001,E-Commerce Platform,T012,Performance Optimization,Keerthi,2026-08-14,2026-09-04,,11,7.8,70,In Progress
+PRJ001,E-Commerce Platform,T013,Security Review,Manoj,2026-09-04,2026-09-20,,30,29.9,53,In Progress
+PRJ001,E-Commerce Platform,T014,User Acceptance Testing,Sandeep,2026-09-05,2026-09-15,,12,19.2,30,In Progress
+PRJ001,E-Commerce Platform,T015,Maintenance,Ravi,2026-08-04,2026-08-11,,18,13.6,84,In Progress
+PRJ002,Hospital Management,T016,Requirements,Arjun,2026-08-30,2026-09-13,,13,9.4,99,In Progress
+PRJ002,Hospital Management,T017,UI Design,Sandeep,2026-08-11,2026-08-30,,59,46.6,75,In Progress
+PRJ002,Hospital Management,T018,Database Design,Sandeep,2026-08-25,2026-09-12,,32,34.3,55,In Progress
+PRJ002,Hospital Management,T019,Frontend Development,Asha,2026-09-10,2026-09-23,,24,18.0,6,In Progress
+PRJ002,Hospital Management,T020,Backend Development,Ravi,2026-08-28,2026-09-07,,17,18.6,90,In Progress
+PRJ002,Hospital Management,T021,API Integration,Divya,2026-08-05,2026-08-23,,43,52.8,98,In Progress
+PRJ002,Hospital Management,T022,Authentication,Sandeep,2026-08-28,2026-09-02,,18,16.5,76,In Progress
+PRJ002,Hospital Management,T023,Testing,Manoj,2026-08-29,2026-09-13,,37,44.1,49,In Progress
+PRJ002,Hospital Management,T024,Bug Fixing,Priya,2026-09-01,2026-09-16,,34,53.9,8,In Progress
+PRJ002,Hospital Management,T025,Documentation,Asha,2026-08-14,2026-09-03,,50,36.5,71,In Progress
+PRJ002,Hospital Management,T026,Deployment,Kiran,2026-09-13,2026-09-30,,29,38.3,85,In Progress
+PRJ002,Hospital Management,T027,Performance Optimization,Ravi,2026-08-08,2026-08-30,,46,40.6,74,In Progress
+PRJ002,Hospital Management,T028,Security Review,Manoj,2026-09-14,2026-10-02,,17,18.1,46,In Progress
+PRJ002,Hospital Management,T029,User Acceptance Testing,Manoj,2026-08-07,2026-08-21,,20,22.7,0,Not Started
+PRJ002,Hospital Management,T030,Maintenance,Manoj,2026-08-12,2026-08-20,,49,67.8,99,In Progress
+PRJ003,Student Portal,T031,Requirements,Sandeep,2026-08-15,2026-09-02,,33,40.6,95,In Progress
+PRJ003,Student Portal,T032,UI Design,Kiran,2026-09-06,2026-09-12,,49,47.8,69,In Progress
+PRJ003,Student Portal,T033,Database Design,Manoj,2026-08-30,2026-09-15,,19,14.2,27,In Progress
+PRJ003,Student Portal,T034,Frontend Development,Sandeep,2026-08-26,2026-09-14,,33,37.4,7,In Progress
+PRJ003,Student Portal,T035,Backend Development,Arjun,2026-09-05,2026-09-10,,54,68.4,76,In Progress
+PRJ003,Student Portal,T036,API Integration,Priya,2026-08-27,2026-09-16,,56,81.9,90,In Progress
+PRJ003,Student Portal,T037,Authentication,Keerthi,2026-09-09,2026-09-14,,58,89.7,50,In Progress
+PRJ003,Student Portal,T038,Testing,Sandeep,2026-08-18,2026-09-06,,39,27.8,43,In Progress
+PRJ003,Student Portal,T039,Bug Fixing,Asha,2026-08-31,2026-09-08,,9,9.7,33,In Progress
+PRJ003,Student Portal,T040,Documentation,Divya,2026-08-22,2026-09-01,,30,33.1,66,In Progress
+PRJ003,Student Portal,T041,Deployment,Kiran,2026-08-25,2026-09-14,,62,101.3,95,In Progress
+PRJ003,Student Portal,T042,Performance Optimization,Priya,2026-09-13,2026-09-29,,51,47.4,81,In Progress
+PRJ003,Student Portal,T043,Security Review,Ravi,2026-08-21,2026-09-04,,51,76.0,48,In Progress
+PRJ003,Student Portal,T044,User Acceptance Testing,Arjun,2026-08-11,2026-08-16,,14,11.0,20,In Progress
+PRJ003,Student Portal,T045,Maintenance,Divya,2026-08-18,2026-09-09,,48,37.2,70,In Progress
+PRJ004,Inventory System,T046,Requirements,Divya,2026-08-04,2026-08-20,,25,36.1,94,In Progress
+PRJ004,Inventory System,T047,UI Design,Manoj,2026-09-04,2026-09-13,,64,67.8,76,In Progress
+PRJ004,Inventory System,T048,Database Design,Keerthi,2026-08-05,2026-08-24,,54,44.4,31,In Progress
+PRJ004,Inventory System,T049,Frontend Development,Asha,2026-09-02,2026-09-16,,38,45.3,3,In Progress
+PRJ004,Inventory System,T050,Backend Development,Keerthi,2026-09-03,2026-09-22,,37,51.0,82,In Progress
+PRJ004,Inventory System,T051,API Integration,Divya,2026-08-08,2026-08-23,,46,56.5,87,In Progress
+PRJ004,Inventory System,T052,Authentication,Keerthi,2026-08-20,2026-09-10,,62,87.4,80,In Progress
+PRJ004,Inventory System,T053,Testing,Priya,2026-08-04,2026-08-17,,9,7.4,23,In Progress
+PRJ004,Inventory System,T054,Bug Fixing,Priya,2026-08-11,2026-08-29,,40,51.1,15,In Progress
+PRJ004,Inventory System,T055,Documentation,Ravi,2026-08-29,2026-09-07,,48,36.8,80,In Progress
+PRJ004,Inventory System,T056,Deployment,Arjun,2026-08-05,2026-08-10,,26,34.5,91,In Progress
+PRJ004,Inventory System,T057,Performance Optimization,Manoj,2026-08-18,2026-08-27,,59,96.7,84,In Progress
+PRJ004,Inventory System,T058,Security Review,Kiran,2026-08-16,2026-08-25,,14,16.3,16,In Progress
+PRJ004,Inventory System,T059,User Acceptance Testing,Manoj,2026-08-22,2026-09-10,,42,51.8,16,In Progress
+PRJ004,Inventory System,T060,Maintenance,Manoj,2026-08-29,2026-09-05,,8,12.9,77,In Progress
+PRJ005,Customer CRM,T061,Requirements,Divya,2026-09-06,2026-09-13,,42,66.7,99,In Progress
+PRJ005,Customer CRM,T062,UI Design,Ravi,2026-08-10,2026-09-01,,10,11.2,74,In Progress
+PRJ005,Customer CRM,T063,Database Design,Arjun,2026-08-05,2026-08-20,,57,74.3,21,In Progress
+PRJ005,Customer CRM,T064,Frontend Development,Manoj,2026-09-14,2026-09-24,,48,68.6,23,In Progress
+PRJ005,Customer CRM,T065,Backend Development,Manoj,2026-08-05,2026-08-16,,10,11.8,70,In Progress
+PRJ005,Customer CRM,T066,API Integration,Divya,2026-09-13,2026-09-27,,8,13.1,85,In Progress
+PRJ005,Customer CRM,T067,Authentication,Kiran,2026-08-26,2026-09-10,,32,44.1,54,In Progress
+PRJ005,Customer CRM,T068,Testing,Manoj,2026-09-12,2026-09-26,,44,53.9,49,In Progress
+PRJ005,Customer CRM,T069,Bug Fixing,Asha,2026-08-16,2026-09-04,,45,65.1,17,In Progress
+PRJ005,Customer CRM,T070,Documentation,Asha,2026-08-10,2026-08-30,,56,73.9,77,In Progress
+PRJ005,Customer CRM,T071,Deployment,Priya,2026-09-14,2026-09-24,,13,15.3,90,In Progress
+PRJ005,Customer CRM,T072,Performance Optimization,Keerthi,2026-09-06,2026-09-23,,45,46.2,53,In Progress
+PRJ005,Customer CRM,T073,Security Review,Meena,2026-08-26,2026-09-15,,28,36.9,33,In Progress
+PRJ005,Customer CRM,T074,User Acceptance Testing,Ravi,2026-09-01,2026-09-12,,18,13.5,6,In Progress
+PRJ005,Customer CRM,T075,Maintenance,Sandeep,2026-08-11,2026-08-27,,64,97.9,92,In Progress
+PRJ006,Mobile Banking,T076,Requirements,Ravi,2026-08-19,2026-09-01,,10,13.5,97,In Progress
+PRJ006,Mobile Banking,T077,UI Design,Priya,2026-09-01,2026-09-14,,43,55.1,70,In Progress
+PRJ006,Mobile Banking,T078,Database Design,Divya,2026-09-12,2026-09-19,,30,36.3,35,In Progress
+PRJ006,Mobile Banking,T079,Frontend Development,Ravi,2026-09-06,2026-09-13,,49,47.2,13,In Progress
+PRJ006,Mobile Banking,T080,Backend Development,Manoj,2026-08-10,2026-08-17,,29,26.8,90,In Progress
+PRJ006,Mobile Banking,T081,API Integration,Manoj,2026-08-28,2026-09-09,2026-09-12,60,93.4,100,Completed
+PRJ006,Mobile Banking,T082,Authentication,Asha,2026-08-29,2026-09-09,,52,60.2,58,In Progress
+PRJ006,Mobile Banking,T083,Testing,Ravi,2026-09-07,2026-09-19,,32,23.1,54,In Progress
+PRJ006,Mobile Banking,T084,Bug Fixing,Divya,2026-09-06,2026-09-21,,52,82.5,5,In Progress
+PRJ006,Mobile Banking,T085,Documentation,Ravi,2026-09-07,2026-09-25,,58,88.1,88,In Progress
+PRJ006,Mobile Banking,T086,Deployment,Divya,2026-08-10,2026-08-20,,10,9.1,98,In Progress
+PRJ006,Mobile Banking,T087,Performance Optimization,Divya,2026-09-04,2026-09-09,,59,81.7,71,In Progress
+PRJ006,Mobile Banking,T088,Security Review,Priya,2026-08-09,2026-08-28,,20,27.7,33,In Progress
+PRJ006,Mobile Banking,T089,User Acceptance Testing,Keerthi,2026-08-17,2026-08-27,,19,19.6,22,In Progress
+PRJ006,Mobile Banking,T090,Maintenance,Kiran,2026-08-14,2026-08-27,,29,37.0,85,In Progress
+PRJ007,Library Automation,T091,Requirements,Arjun,2026-09-05,2026-09-27,,31,27.7,94,In Progress
+PRJ007,Library Automation,T092,UI Design,Ravi,2026-08-28,2026-09-02,,16,14.0,63,In Progress
+PRJ007,Library Automation,T093,Database Design,Priya,2026-09-02,2026-09-15,,15,23.4,55,In Progress
+PRJ007,Library Automation,T094,Frontend Development,Asha,2026-08-26,2026-09-06,,61,77.7,3,In Progress
+PRJ007,Library Automation,T095,Backend Development,Meena,2026-09-11,2026-09-25,,25,35.4,81,In Progress
+PRJ007,Library Automation,T096,API Integration,Ravi,2026-08-26,2026-09-14,,13,14.2,94,In Progress
+PRJ007,Library Automation,T097,Authentication,Manoj,2026-08-24,2026-09-15,,17,13.2,85,In Progress
+PRJ007,Library Automation,T098,Testing,Keerthi,2026-08-28,2026-09-16,,54,81.9,42,In Progress
+PRJ007,Library Automation,T099,Bug Fixing,Keerthi,2026-08-22,2026-09-05,,45,52.8,23,In Progress
+PRJ007,Library Automation,T100,Documentation,Arjun,2026-08-24,2026-09-04,,8,9.4,94,In Progress
+PRJ007,Library Automation,T101,Deployment,Manoj,2026-08-26,2026-09-10,,53,71.5,89,In Progress
+PRJ007,Library Automation,T102,Performance Optimization,Asha,2026-08-30,2026-09-18,,10,7.4,69,In Progress
+PRJ007,Library Automation,T103,Security Review,Ravi,2026-08-07,2026-08-17,,25,21.0,45,In Progress
+PRJ007,Library Automation,T104,User Acceptance Testing,Arjun,2026-08-08,2026-08-21,,26,40.1,21,In Progress
+PRJ007,Library Automation,T105,Maintenance,Priya,2026-08-07,2026-08-13,,34,44.7,78,In Progress
+PRJ008,Online Learning,T106,Requirements,Kiran,2026-08-13,2026-08-31,,10,10.0,93,In Progress
+PRJ008,Online Learning,T107,UI Design,Meena,2026-08-31,2026-09-14,,28,31.6,69,In Progress
+PRJ008,Online Learning,T108,Database Design,Keerthi,2026-09-05,2026-09-25,,58,59.3,28,In Progress
+PRJ008,Online Learning,T109,Frontend Development,Priya,2026-08-19,2026-08-30,,41,57.8,14,In Progress
+PRJ008,Online Learning,T110,Backend Development,Manoj,2026-08-27,2026-09-18,,63,70.5,92,In Progress
+PRJ008,Online Learning,T111,API Integration,Meena,2026-09-14,2026-09-24,,60,74.7,98,In Progress
+PRJ008,Online Learning,T112,Authentication,Asha,2026-09-10,2026-09-28,,45,60.3,74,In Progress
+PRJ008,Online Learning,T113,Testing,Priya,2026-09-12,2026-09-22,,47,42.5,27,In Progress
+PRJ008,Online Learning,T114,Bug Fixing,Keerthi,2026-09-12,2026-09-19,,23,33.2,30,In Progress
+PRJ008,Online Learning,T115,Documentation,Arjun,2026-09-08,2026-09-28,,53,66.7,84,In Progress
+PRJ008,Online Learning,T116,Deployment,Kiran,2026-09-05,2026-09-13,,39,57.2,97,In Progress
+PRJ008,Online Learning,T117,Performance Optimization,Keerthi,2026-08-16,2026-08-30,,50,67.2,65,In Progress
+PRJ008,Online Learning,T118,Security Review,Priya,2026-08-08,2026-08-14,,46,33.5,43,In Progress
+PRJ008,Online Learning,T119,User Acceptance Testing,Sandeep,2026-09-08,2026-09-20,,62,64.9,4,In Progress
+PRJ008,Online Learning,T120,Maintenance,Sandeep,2026-08-31,2026-09-12,,29,28.9,68,In Progress
+PRJ009,Food Delivery,T121,Requirements,Priya,2026-08-22,2026-09-07,,18,23.2,93,In Progress
+PRJ009,Food Delivery,T122,UI Design,Keerthi,2026-09-14,2026-10-03,,54,73.1,69,In Progress
+PRJ009,Food Delivery,T123,Database Design,Ravi,2026-08-19,2026-09-09,,19,30.8,50,In Progress
+PRJ009,Food Delivery,T124,Frontend Development,Keerthi,2026-09-08,2026-09-26,,24,30.9,17,In Progress
+PRJ009,Food Delivery,T125,Backend Development,Priya,2026-09-04,2026-09-15,,60,68.7,82,In Progress
+PRJ009,Food Delivery,T126,API Integration,Meena,2026-08-30,2026-09-08,,31,46.2,97,In Progress
+PRJ009,Food Delivery,T127,Authentication,Meena,2026-08-14,2026-09-04,,39,34.8,80,In Progress
+PRJ009,Food Delivery,T128,Testing,Priya,2026-09-08,2026-09-19,,18,26.0,46,In Progress
+PRJ009,Food Delivery,T129,Bug Fixing,Priya,2026-08-26,2026-09-14,,22,30.8,6,In Progress
+PRJ009,Food Delivery,T130,Documentation,Asha,2026-09-08,2026-09-14,,29,24.1,74,In Progress
+PRJ009,Food Delivery,T131,Deployment,Sandeep,2026-08-17,2026-08-30,,44,47.9,86,In Progress
+PRJ009,Food Delivery,T132,Performance Optimization,Sandeep,2026-08-20,2026-08-28,,26,33.0,73,In Progress
+PRJ009,Food Delivery,T133,Security Review,Divya,2026-09-02,2026-09-12,,51,61.3,45,In Progress
+PRJ009,Food Delivery,T134,User Acceptance Testing,Kiran,2026-08-16,2026-09-06,,54,84.8,30,In Progress
+PRJ009,Food Delivery,T135,Maintenance,Manoj,2026-09-12,2026-10-02,,49,64.0,90,In Progress
+PRJ010,HR Portal,T136,Requirements,Asha,2026-08-29,2026-09-12,,26,41.0,94,In Progress
+PRJ010,HR Portal,T137,UI Design,Priya,2026-08-12,2026-08-25,,56,66.8,77,In Progress
+PRJ010,HR Portal,T138,Database Design,Priya,2026-08-27,2026-09-16,,58,64.8,42,In Progress
+PRJ010,HR Portal,T139,Frontend Development,Divya,2026-08-15,2026-09-04,,22,30.7,32,In Progress
+PRJ010,HR Portal,T140,Backend Development,Kiran,2026-08-20,2026-09-02,,54,56.6,93,In Progress
+PRJ010,HR Portal,T141,API Integration,Divya,2026-08-29,2026-09-18,,24,19.8,98,In Progress
+PRJ010,HR Portal,T142,Authentication,Sandeep,2026-08-30,2026-09-07,,55,47.3,69,In Progress
+PRJ010,HR Portal,T143,Testing,Kiran,2026-08-30,2026-09-15,,19,26.1,42,In Progress
+PRJ010,HR Portal,T144,Bug Fixing,Ravi,2026-09-08,2026-09-19,,62,90.7,14,In Progress
+PRJ010,HR Portal,T145,Documentation,Arjun,2026-09-05,2026-09-11,,29,27.5,65,In Progress
+PRJ010,HR Portal,T146,Deployment,Priya,2026-08-17,2026-09-07,,29,37.9,85,In Progress
+PRJ010,HR Portal,T147,Performance Optimization,Keerthi,2026-09-10,2026-09-23,,59,83.6,55,In Progress
+PRJ010,HR Portal,T148,Security Review,Priya,2026-08-17,2026-09-08,,56,90.2,40,In Progress
+PRJ010,HR Portal,T149,User Acceptance Testing,Keerthi,2026-09-09,2026-09-30,,63,54.2,28,In Progress
+PRJ010,HR Portal,T150,Maintenance,Asha,2026-08-17,2026-08-22,,9,9.8,92,In Progress
